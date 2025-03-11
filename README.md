@@ -1,6 +1,6 @@
 # HAC framework
 
-This is the repository for the HAC framework for hierarchical publication classification. As a case study, this experiment uses publications from the Fiocruz Observatory at different CNPq levels.
+This is the repository for the HAC framework for hierarchical publication classification. As a case study, this experiment uses publications from the Fiocruz at different CNPq levels.
 
 ## Project Structure
 
