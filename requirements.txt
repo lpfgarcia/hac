@@ -1,0 +1,14 @@
+git+https://github.com/lpfgarcia/bert-sklearn.git@master#egg=bert-sklearn
+hiclass==4.10.0
+jupyter
+langchain-core==0.2.1
+langchain-community==0.2.1
+nltk
+numpy
+openai==1.30.5
+pandas
+scikit-learn==1.5.0
+seaborn
+sentence_transformers==3.0.0
+tqdm
+unidecode
